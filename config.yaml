@@ -1,0 +1,12 @@
+---
+machines:
+- mac: 08:00:27:29:4e:67
+  ip: 192.168.2.3
+  script: https://raw.githubusercontent.com/jacobweinstock/ipxe-scripts/main/k3os/k3os-amd64.ipxe #script: /Users/jacobweinstock/ipxe/k3os/k3os.ipxe
+- mac: 08:00:27:9e:ec:94
+  ip: 192.168.2.4
+- mac: 08:00:27:b1:da:42
+  ip: 192.168.2.5
+- mac: d2:9a:c5:cb:46:ea
+  ip: 192.168.2.6
+  script: /Users/jacobweinstock/ipxe/k3os/k3os.ipxe
